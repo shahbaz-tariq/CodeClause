@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="empty_not_saved">Contact not saved because its empty.</string>
+</resources>
